@@ -32,7 +32,7 @@ Development & Version Control: Jupyter Notebook, Google Colab, Git, GitHub
 
 Data Visiualization: Power BI, Excel
 
---
+---
 
 Let's Connect & Collaborate! 🤝
 I'm always eager to connect with fellow data professionals, discuss challenging problems, or explore exciting new opportunities where data can make a difference.
