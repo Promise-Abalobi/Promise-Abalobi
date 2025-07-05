@@ -1,7 +1,6 @@
 ## Promise Abalobi | Data Scientist 🚀
 ---
 
-Promise Abalobi | Data Scientist 🚀
 Hello! I'm Promise Abalobi, a Data Scientist with a passion for transforming complex data into clear, actionable insights and innovative solutions. My expertise lies in leveraging the power of machine learning, statistical analysis, and compelling data visualization to solve real-world problems and drive strategic decision-making.
 
 I thrive on intellectual challenges and am constantly seeking to deepen my understanding of data's potential. My approach is rooted in curiosity, precision, and a commitment to delivering tangible results that go beyond just models—they tell a story and create impact.
